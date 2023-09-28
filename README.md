@@ -1,6 +1,7 @@
 ### Hi there 👋
 📍[Discord](https://discord.com/users/217998824671674368)\
 🌱[fnyaoo.com](https://fnyaoo.com)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/217998824671674368?hideBadges=true)](https://discord.com/users/217998824671674368)
 <!--
 **fnyaoo/fnyaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
